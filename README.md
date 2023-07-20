@@ -11,10 +11,12 @@ Main_VacationPy, the second script, reads a list of cities from CSV, as well as 
 The main files for this project, Main_Weather.py and Main_Vacation.py are found on the WeatherPy and VacationPy folders respectively. On the same level of the folders are the Resources Folder, containing the cities.csv file for Main_VacationPy and the Output Folder, containing pngs of the scatter plots created in Main_WeatherPy.
 
 The API keys used for both scripts are not uploaded to GitHub through using a .gitignore file, containing the following code:
+
 '''
-# Adding config.py file.
+Adding config.py file.
 api_keys.py
 '''
+
 Thus, the API Keys are protected.
 
 Contributions:
